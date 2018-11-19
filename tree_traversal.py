@@ -4,7 +4,7 @@ class Node:
         self.right = None
         self.val = key
 
-    # A function to do inorder tree traversal
+    # A function to do in order tree traversal
 
 
 def printInorder(root):
