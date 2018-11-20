@@ -3,11 +3,8 @@ def greeting(name):
 
 
 employee = {
-        "name": "Alex",
-        "age": 30,
-        "country": "America",
-        "salary": "456000"
-    }
-
-
-
+    "name": "Alex",
+    "age": 30,
+    "country": "America",
+    "salary": "456000"
+}
