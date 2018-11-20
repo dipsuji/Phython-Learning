@@ -5,3 +5,5 @@
 __pycache__/mymodule.cpython-37.pyc
 .idea/workspace.xml
 *.xml
+*.py___jb_tmp___
+*.xml

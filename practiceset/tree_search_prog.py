@@ -48,15 +48,18 @@ class Node:
 def sum_nodes(node):
     if node is None:
         return 0
-    return node.key + sum_nodes(node.left) + sum_nodes(node.right)
+    return node.data + sum_nodes(node.left) + sum_nodes(node.right)
+
 
 root = Node(12)
 root.left = Node(11)
 root.left.left = Node(10)
 root.right = Node(13)
 root.right.right = Node(14)
+
+root.print_tree()
+
 print(root.find_value(7))
 print(root.find_value(14))
-print(sum_nodes(12))
 
-
+print(sum_nodes(root))
