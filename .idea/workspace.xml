@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ebcf2c-ca17-47ec-b9db-e50c57b0016c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practiceset/hk/fraction_of_plusMinus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,15 +94,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practiceset/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practiceset/hk/element_pair_count.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -112,16 +102,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="170">
+              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practiceset/hk/fraction_of_plusMinus.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
@@ -155,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/recursion.py" />
         <option value="$PROJECT_DIR$/phython_recursion_factorial.py" />
         <option value="$PROJECT_DIR$/fibonacci_series.py" />
         <option value="$PROJECT_DIR$/python_JSON.py" />
@@ -206,6 +195,7 @@
         <option value="$PROJECT_DIR$/practiceset/hk/element_pair_count.py" />
         <option value="$PROJECT_DIR$/practiceset/hk/inheritance.py" />
         <option value="$PROJECT_DIR$/practiceset/hk/fraction_of_plusMinus.py" />
+        <option value="$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py" />
       </list>
     </option>
   </component>
@@ -800,17 +790,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practiceset/hk/fraction_of_plusMinus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceset/hk/matrix_diagonal_difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
         </state>
       </provider>
     </entry>
